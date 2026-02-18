@@ -67,3 +67,12 @@ Information about feature 1.
  
 ### Information 2 
 Information about feature 2. 
+
+## Feature from Branch1 
+This is a new feature added in branch1. 
+ 
+### Details 1 
+More details about feature 1. 
+ 
+### Details 2 
+More details about feature 2. 
