@@ -64,3 +64,6 @@ This is a different feature added in branch2.
  
 ### Information 1 
 Information about feature 1. 
+ 
+### Information 2 
+Information about feature 2. 
