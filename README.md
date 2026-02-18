@@ -61,3 +61,6 @@ If the machine you're attempting privesc on cannot reach GitHub to download the 
  
 ## Feature from Branch1 
 This is a new feature added in branch1. 
+ 
+### Details 1 
+More details about feature 1. 
